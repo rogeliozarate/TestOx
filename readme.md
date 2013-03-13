@@ -7,6 +7,8 @@
 ```ruby
 gem "rack-reverse-proxy", :require => "rack/reverse_proxy"
 
+
+
 2.- Configure app in config/application.rb
 
 Looks like magic, it is not.
